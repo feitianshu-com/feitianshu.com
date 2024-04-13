@@ -8,3 +8,6 @@
 
 ## 官网
 https://feitianshu.com
+
+## 图片
+![飞天鼠远程开发者](https://raw.githubusercontent.com/feitianshu-com/feitianshu.com/main/1.png "飞天鼠远程开发者")
